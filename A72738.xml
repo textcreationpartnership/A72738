@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine praiers collected out of a fourme of godly meditations, set foorth by her Maiesties authoritie in the great mortalitie, in the fift yeere of her Highnesse raigne, and most necessarie to be vsed at this time in the like present visitation of Gods heauie hand for our manifold sinnes, and commended vnto the ministers and people of London, by the Reuerend Father in God, Iohn Bishop of London, &amp;c. Iuly. 1593..</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1593</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72738</idno>
+            <idno type="STC">STC 16524</idno>
+            <idno type="STC">ESTC S123415</idno>
+            <idno type="EEBO-CITATION">99898611</idno>
+            <idno type="PROQUEST">99898611</idno>
+            <idno type="VID">173295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2340:3j, 2032:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine praiers collected out of a fourme of godly meditations, set foorth by her Maiesties authoritie in the great mortalitie, in the fift yeere of her Highnesse raigne, and most necessarie to be vsed at this time in the like present visitation of Gods heauie hand for our manifold sinnes, and commended vnto the ministers and people of London, by the Reuerend Father in God, Iohn Bishop of London, &amp;c. Iuly. 1593..</title>
+                  <author>Church of England.</author>
+                  <author>Dyson, Humphrey, d. 1633, former owner.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1593].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Title within ornamental border (McK. &amp; F. 165); headpieces, initials.</note>
+                  <note>An adaptation of STC 16505.</note>
+                  <note>Variant: title lacks the words "and commended .. &amp;c.".</note>
+                  <note>Former owner's autograph on t.p.: Hum: Dyson.</note>
+                  <note>Reproductions of originals in:Henry E. Huntington Library and Art Gallery (2032:7) and British Library (reel 2340:3j).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Texts --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173295:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>decorative border with (top center) royal coat of arms; (left side) Faith bearing sword and shield; (right side) Humility holding lamb; and symbols of the four evangelists: (top left) angel representing Matthew, (top right) eagle representing John, (bottom left) winged lion representing Mark, (bottom right) winged bull representing Luke</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <p>FIDES</p>
+               <p>HVMILITAS</p>
+            </figure>
+            <p>CERTAINE Praiers collected out of a fourme of godly Meditations, ſet foorth by her Maieſties authoritie in the great Mortalitie, in the fift yeere of her Highneſſe raigne, and moſt neceſſarie to be vſed at this time in the like preſent viſitation of Gods heauie hand for our manifold ſinnes, and com<g ref="char:EOLhyphen"/>mended vnto the Miniſters and people of London, by the Reuerend Father in God, <hi>Iohn</hi> Biſhop of London, &amp;c. <hi>Iuly.</hi> 1593.</p>
+            <p>Imprinted at London by the De<g ref="char:EOLhyphen"/>puties of <hi>Chriſtopher Barker,</hi> Prin<g ref="char:EOLhyphen"/>ter to the Queenes moſt excel<g ref="char:EOLhyphen"/>lent Maieſtie.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:173295:2"/>
+            <pb facs="tcp:173295:2" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> The Preface.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E bee taught by many and ſundry examples of holy Scriptures, that vpon occaſion of particu<g ref="char:EOLhyphen"/>lar puniſhments, afflictions, and perils, which God of his moſt iuſt iudgement hath ſometimes ſent among his people, to ſhew his wrath againſt ſinne, and to call his people to repentance, and to the redreſſe of their liues, the godly haue bene prouoked and ſtirred vp to more feruencie &amp; diligence in pray<g ref="char:EOLhyphen"/>er, faſting, and almes deedes, to a more deepe conſideration of their conſciences, to ponder their vnthankefulneſſe and forgetfulneſſe of Gods mercifull benefites towards them, with crauing of pardon for the time paſt, and to aske his aſſiſtance for the time to come, to liue more godly, and ſo to be defended and deliuered from all further perils and dangers.<note place="margin">2. Sam. 24</note> So king Dauid in the time of plague and peſtilence which enſued vpon his vaine numbring of the people, prayed vnto God with wonderfull feruencie, confeſſing his fault, deſiring God to ſpare the people, and rather to turne his ire to himward, who had chiefly offen<g ref="char:EOLhyphen"/>ded in that tranſgreſſion.<note place="margin">2. Chro. 2 2. Reg. 19</note> The like was done by the vertuous kings Ioſaphat and Ezechias in their diſtreſſe of warres and foreine inua<g ref="char:EOLhyphen"/>ſions. So did Iudith and Heſter fall to humble prayers in like perils of their people. So did Daniel in his captiuitie,<note place="margin">Iudith 9.2 Eſter 14.1 Dan. 9 4.</note> and many other moe in their troubles. Nowe therefore calling to minde, that God hath bene prouoked by vs to viſite vs at this preſent with the plague and o<g ref="char:EOLhyphen"/>ther grieuous diſeaſes, and partly alſo with trouble of warres: It hath bene thought meete to excite and ſtirre vp all godly people within this Realme, to pray earneſtly and heartily to God, to turne away his de<g ref="char:EOLhyphen"/>ſerued wrath from vs, and to reſtore vs as well to the health of our bodies by the wholeſomneſſe of the aire, as alſo to godly and profitable peace and quietneſſe. And although it is euery Chriſtian mans due<g ref="char:EOLhyphen"/>tie, of his owne deuotion to pray at all times: yet for that the corrupt nature of man is ſo ſlouthfull and negligent in this his dutie, hee hath need by often and ſundry meanes to bee ſtirred vp and put in remem<g ref="char:EOLhyphen"/>brance of his duetie, For the effectuall accompliſhment whereof, it is ordered and appointed, as followeth.</p>
+            <pb facs="tcp:173295:3"/>
+            <p>Firſt, that all Curates and Pastours, ſhall exhort their Pariſhio<g ref="char:EOLhyphen"/>ners to endeuour themſelues to come vnto the Church, with ſo many of their families as may be ſpared from their neceſſarie buſineſſe, (ha<g ref="char:EOLhyphen"/>uing yet a prudent reſpect in ſuch aſſemblies to keepe the ſicke from the whole, in places where the plague reigneth) and they to reſort, not onely on Sundayes and holy dayes: but alſo on Wedneſdayes and Fri<g ref="char:EOLhyphen"/>dayes, during the time of theſe preſent afflictions, exhorting them, there reuerently and godly to behaue themſelues, and with penitent hearts to pray vnto God to turne theſe plagues from vs, which wee through our vnthankefulneſſe and ſinfull life, haue deſerued.</p>
+            <p>Secondly, that the ſayde Curates ſhall then diſtinctly, and playnely reade the generall Confeſſion appoynted in the booke of Seruice, and the Abſolution following.</p>
+            <p>Then ſhall beginne the Lordes prayer. <hi>Our Father &amp;c.</hi>
+            </p>
+            <p>Then likewiſe ſhall followe. <hi>O Lord open thou our lips. &amp;c.</hi>
+            </p>
+            <p>Then ſhall be ſayde this Pſalme following. <hi>Pſal. 95. O come, let vs ſing vnto the Lorde, &amp;c.</hi>
+            </p>
+            <p>Afterwardes, ſome three of theſe Pſalmes. <hi>Pſal. 6.39.51.90 91.94.130.</hi>
+            </p>
+            <p>Then for the first Leſſon one of theſe Chapters. <hi>2. Samuel. 24. 2. Reg. 24.</hi>
+            </p>
+            <p>Then <hi>Te Deum</hi> ſhall followe.</p>
+            <p>Then for the ſecond Leſſon one of theſe Chapters. <hi>Matth. 6.24.</hi>
+            </p>
+            <p>Then <hi>Benedictus,</hi> with the other accustomed prayers.</p>
+            <p>Then the <hi>Letanie.</hi> And after the ende of theſe Collectes, <hi>O God mercifull Father, &amp;c. Wee humbly beſeech thee, &amp;c. O Lord our heauenly Father, almightie &amp; euerlaſting God, &amp;c. O almightie God, King of all Kings, &amp;c. Almightie God, which in thy wrath, &amp;c.</hi> ſhall follow this Pſalme: one verſe ſayde by the Miniſter, and an other by the people.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Psalm_litany">
+            <pb facs="tcp:173295:3"/>
+            <head>¶ The Pſalme to be ſaide in the Leta<g ref="char:EOLhyphen"/>nie: Whereof one verſe to be ſaide of the Miniſter, and another by the people, Clarke or Clarks.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <note place="margin">Pſal. 95.</note> 
+               <seg rend="decorInit">O</seg> 
+               <hi>Come, let vs humble our ſelues, and fall downe before the Lord, with reuerence and feare.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For he is the Lord our God: and we are the people of his paſture, and the ſheepe of his hands.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <note place="margin">Oſe. 6.2.</note> 
+               <hi>Come therefore, let vs turne againe vnto our Lord, for hee hath ſmitten vs, and he ſhall heale vs.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <note place="margin">Actes. 3.</note> Let vs repent, and turne from our wickednes: and our ſinnes ſhalbe forgiuen vs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <note place="margin">Iona. 3.</note> 
+               <hi>Let vs turne, and the Lorde will turne from his heauie wrath, and will pardon vs, and we ſhall not periſh.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+               <note place="margin">Pſal. 51.</note> For we knowledge our faults: and our ſins be euer before vs. </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+               <note place="margin">Lament. 3.</note> 
+               <hi>We haue ſore prouoked thine anger, O Lord, thy wrath is waxed hote, and thy heauy diſpleaſure is ſore kindled againſt vs.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Thou haſt made vs heare of the noiſe of wars, and haſt trou<g ref="char:EOLhyphen"/>bled vs by the vexation of enemies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> 
+               <note place="margin">Eſa. 64.</note> 
+               <hi>Thou haſt in thine indignation ſtriken vs with greeuous ſickenes, and by and by we haue fallen as leaues beaten downe with a vehe<g ref="char:EOLhyphen"/>ment winde.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+               <note place="margin">Iudith. 8. Iob 11. Sap. 11.</note> Indeed we acknowledge, that all puniſhments are leſſe then our deſeruings: but yet of thy mercy Lorde correct vs to a<g ref="char:EOLhyphen"/>mendment, and plague vs not to our deſtruction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+               <hi>For thy hand is not ſhortened, that thou canſt not helpe: neither is thy goodnes abated, that thou wilt not heare.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> 
+               <note place="margin">Eſa. 65.</note> Thou haſt promiſed, O Lorde, that afore wee crie thou wilt heare vs: whileſt wee yet ſpeake thou wilt haue mercy vpon vs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> 
+               <hi>For none that truſt in thee ſhalbe confounded: neither any that cal vpon thee ſhal be deſpiſed.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> 
+               <note place="margin">Tob. 3. Iob 5. Oſe. 6.</note> For thou art the only Lord, who woundeſt, and doeſt heale againe, who killeſt, and reuiueſt, bringeſt euen to hell, and bringeſt backe againe.</p>
+            <pb facs="tcp:173295:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l. 22.</note> 
+               <hi>Our fathers hoped in thee, they truſted in thee, and thou diddeſt deliuer them.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> They called vpon thee, and were helped: they put their truſt in thee, and were not confounded.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> 
+               <note place="margin">Pſal. 6.</note> 
+               <hi>O Lord, rebuke not vs in thine indignation: neither chaſten vs in thy heauie diſpleaſure.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> 
+               <note place="margin">Pſal. 25.</note> O remember not the ſinnes and offences of our youth: but according to thy mercie thinke thou vpon vs, O Lorde, for thy goodnes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> 
+               <hi>Haue mercie vpon vs, O Lord, for we are weake: O Lorde heale vs for our bones are vexed.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> 
+               <note place="margin">Baruc. 3. Iona. 2.</note> And now in the vexation of our ſpirites, and the anguiſh of our ſoules, we remember thee, and we crie vnto thee: heare Lord, and haue mercie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> 
+               <note place="margin">Dan. 9.</note> 
+               <hi>For thine owne ſake, and for thy holie name ſake, incline thine eare, and heare, O mercifull Lord.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> For we do not powre out our praiers before thy face, truſting in our owne righteouſneſſe: but in thy great and manifolde mercies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> 
+               <hi>Waſh vs throughly from our wickednes: and clenſe vs from our ſinnes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> Turne thy face from our ſinnes, &amp; put out all our miſdeedes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> 
+               <hi>Make vs cleane hearts, O God: and renew a right ſpirit within vs.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> Help vs, O God of our ſaluation, for the glory of thy name: O deliuer vs, and be mercifull vnto our ſins for thy names ſake.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> 
+               <note place="margin">Pſal. 79.</note> 
+               <hi>So we that be thy people, and ſheepe of thy Paſture, ſhal giue thee thankes for euer, and will alwayes be ſhewing foorth thy praiſe, from generation to generation.</hi>
+            </p>
+            <p>Glory be to the Father, &amp;c.</p>
+            <p>¶ <hi>After this Pſalme, ſhalbe ſaide by the Curate or Miniſter o<g ref="char:EOLhyphen"/>penly and with an high voyce, one of theſe three prayers follow<g ref="char:EOLhyphen"/>ing. At which time, the people ſhall deuoutly giue eare, and ſhall both with minde and ſpeach to themſelues, aſſent to the ſame prayers humbly vpon their knees.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:173295:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Prayer, conteining alſo a Con<g ref="char:EOLhyphen"/>feſsion of ſinnes. Which is to be ſaid after the Letany, aswell vpon Sundayes, as Wedneſdaies and Fridaies.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>
+               </hi> Almightie, moſt iuſt and mer<g ref="char:EOLhyphen"/>cifull God, we here acknow<g ref="char:EOLhyphen"/>ledge our ſelues moſt vnwoor<g ref="char:EOLhyphen"/>thy to lift vp our eies vnto hea<g ref="char:EOLhyphen"/>uen, for our conſcience doth ac<g ref="char:EOLhyphen"/>cuſe vs, &amp; our ſins do reprooue vs. Wee knowe alſo that thou, Lord, being a iuſt iudge, muſt needes puniſh the ſinnes of them which tranſ<g ref="char:EOLhyphen"/>greſſe thy Lawe. And when wee conſider and examine all our whole life, wee finde nothing in our ſelues, that deſerueth anie other thing but eternall damnation. But becauſe thou, O Lorde, of thy vnſpeakable mercie, haſt com<g ref="char:EOLhyphen"/>maunded vs in all our neceſſities to call onelie vpon thee, and haſt alſo promiſed, that thou wilt heare our Prayers, not for anie our deſert (which is none) but for the merits of thy Sonne our onely Sauiour Ieſus Chriſt, whome thou haſt ordeined to be our onlie Mediatour and In<g ref="char:EOLhyphen"/>terceſſour. We lay away all confidence in man, and doe flee to the throne of thy onelie mercie, by the interceſſion of thy only Sonne our Sauiour Ieſu Chriſt. And firſt of all, wee doe moſt la<g ref="char:EOLhyphen"/>ment and bewayle, from the bottome of our
+<pb facs="tcp:173295:5"/>hearts, our vnkindneſſe and vnthankefulneſſe towardes thee our Lorde, conſidering that be<g ref="char:EOLhyphen"/>ſides thoſe thy benefites which wee enioy as thy creatures, common with all mankinde, thou haſt beſtowed many and ſingular ſpeciall bene<g ref="char:EOLhyphen"/>fites vpon vs, which wee are not able in heart to conceyue, much leſſe in wordes worthily to expreſſe. Thou haſt called vs to the knowledge of thy Goſpell. Thou haſt releaſed vs from the harde ſeruitude of Sathan. Thou haſt deliue<g ref="char:EOLhyphen"/>red vs from all horrible and execrable Idolatry, wherein wee were vtterly drowned, and haſt brought vs into the moſt cleare and comforta<g ref="char:EOLhyphen"/>ble light of thy bleſſed worde, by the which wee are taught how to ſerue and honour thee, and howe to liue orderly with our neighbours in trueth and veritie. But wee moſt vnminde<g ref="char:EOLhyphen"/>full in times of proſperitie, of theſe thy great benefites, haue neglected thy commandements, haue abuſed the knowledge of thy Goſpell, and haue followed our carnall libertie, and ſer<g ref="char:EOLhyphen"/>ued our owne luſtes, and through our ſinnefull life, haue not worſhipped and honoured thee as we ought to haue done. And nowe, O Lorde, be<g ref="char:EOLhyphen"/>ing euen compelled with thy correction, wee doe moſt humbly confeſſe that wee haue ſinned, and haue moſt grieuouſly offended thee by many and ſundry wayes. And if thou, O Lorde, wouldeſt now being prouoked with our diſobedience, ſo deale with vs as thou might, and as we haue de<g ref="char:EOLhyphen"/>ſerued, there remayneth nothing els to be looked
+<pb facs="tcp:173295:5"/>for, but vniuerſall and continual plagues in this world, and hereafter eternall death and damna<g ref="char:EOLhyphen"/>tion, both of our bodies and of our ſoules. For if we ſhoulde excuſe our ſelues, our owne conſcien<g ref="char:EOLhyphen"/>ces would accuſe vs before thee, and our owne diſobedience and wickedneſſe woulde beare wit<g ref="char:EOLhyphen"/>neſſe againſt vs. Yea, euen thy plagues and pu<g ref="char:EOLhyphen"/>niſhmentes which thou doeſt nowe lay vpon vs in ſundry places, doe teach vs to acknowledge our ſinnes. For ſeeing, O Lord, that thou art iuſt, yea euen iuſtice it ſelfe, thou puniſheſt no peo<g ref="char:EOLhyphen"/>ple without deſert. Yea, euen at this preſent O Lorde, wee ſee thy hand terribly ſtretched out to plague vs, and puniſh vs. But although thou ſhouldeſt puniſh vs more grieuouſly then thou haſt done, and for one plague ſend an hundreth, if thou ſhouldeſt powre vpon vs all thoſe thy te<g ref="char:EOLhyphen"/>ſtimonies of thy moſt iuſt wrath, which in times paſſed thou powredſt on thy owne choſen people of Iſrael: yet ſhouldeſt thou doe vs no wrong, neyther could wee deny but wee had iuſtly deſer<g ref="char:EOLhyphen"/>ued the ſame. But yet, O mercifull Lord, thou art our God, and wee nothing but duſt and aſhes: Thou art our creatour, and we the worke of thy handes: Thou art our paſtor, we are thy flocke: Thou art our redeemer, and we thy people redee<g ref="char:EOLhyphen"/>med: Thou art our heauenly father, we are thy children, wherefore puniſh vs not, O Lorde, in thine anger, but chaſten vs in thy mercy. Re<g ref="char:EOLhyphen"/>gard not the horror of our ſinnes, but the re<g ref="char:EOLhyphen"/>pentaunce thereof: Perfite that worke which
+<pb facs="tcp:173295:6"/>thou haſt begunne in vs, that the whole worlde may know, that thou art our God and mercifull deliuerer. Thy people of Iſrael often times of<g ref="char:EOLhyphen"/>fended thee, and thou moſt iuſtly afflicted them: but as oft as they returned to thee, thou diddeſt receiue them to mercie. And though their ſinnes were neuer ſo great, yet thou alwayes turnedſt away thy wrath from them, and the puniſhment prepared for them, and that for thy couenant ſake, which thou madeſt with thy ſeruantes, A<g ref="char:EOLhyphen"/>braham, Iſaac, and Iacob. Thou haſt made the ſame couenant with vs (O heauenly Father) or rather a couenant of more excellencie and effica<g ref="char:EOLhyphen"/>cie, and that namely through the mediation of thy deare Sonne Ieſus Chriſt our Sauiour, with whoſe moſt precious blood, it pleaſed thee that this couenant ſhould be, as it were, written, ſealed, and confirmed. Wherfore, O heauenly Fa<g ref="char:EOLhyphen"/>ther, we nowe caſting away all confidence in our ſelues or any other creature, doe flee to this moſt holy couenant &amp; Teſtament, wherein our Lord &amp; Sauiour Ieſus Chriſt, once offered himſelfe a ſacrifice for vs on the croſſe, hath reconciled vs to thee foreuer. Looke therefore, O mercifull God, not vpon the ſinnes which wee continually com<g ref="char:EOLhyphen"/>mit: but vpo<g ref="char:cmbAbbrStroke">̄</g> our mediatour &amp; peace maker Ieſus Chriſt, that by his interceſſion thy wrath may be pacified, &amp; we again by thy fatherly countenance relieued and comforted. Receaue vs alſo into thy heauenly defence, and gouerne vs by thy holy ſpirite, to frame in vs a neweneſſe of life, therein
+<pb facs="tcp:173295:6"/>to laude and magnifie thy bleſſed name for euer, and to liue euery of vs according to the ſeuerall ſtate of life whereunto thou Lorde haſt ordeyned vs in godly feare &amp; trembling before thee. And al<g ref="char:EOLhyphen"/>though we are vnworthy (O heauenly father) by meanes of our former foule life, to craue any thing of thee: yet becauſe thou haſt commaunded vs to pray for all men, wee moſt humbly here vp<g ref="char:EOLhyphen"/>on our knees beſeech thee, ſaue and defende thy holy Church, be mercifull, O Lorde to all com<g ref="char:EOLhyphen"/>mon weales, Countreyes, Princes, and Magi<g ref="char:EOLhyphen"/>ſtrates, and eſpecially to this our Realme, and to our moſt gracious Queene and gouernour Queene Elizabeth, increaſe the number of god<g ref="char:EOLhyphen"/>ly Miniſters, indue them with thy grace to bee found faithfull and prudent in their office, defend the Queenes Maieſties Councell, and all that be in aucthoritie vnder her, or that ſerue in any place by her commaundement for this Realme. We commend alſo to thy fatherly mercy, all thoſe that be in pouertie, exyle, impriſonment, ſicknes, or any other kinde of aduerſitie, and namely thoſe whome thy hand now hath touched with any contagious and dangerous ſickeneſſe, which wee beſeech thee, O Lorde, of thy mercie (when thy bleſſed will is) to remoue from vs, and in the meane time, graunt vs grace and true repen<g ref="char:EOLhyphen"/>tance, ſtedfaſt faith, and conſtant patience, that whether we liue or dye, wee may alwayes conti<g ref="char:EOLhyphen"/>nue thine, and euer praiſe thy holy name, and be brought to the fruition of thy Godhead. Graunt
+<pb facs="tcp:173295:7"/>vs theſe and all other our humble petitions (O mercifull father) for thy deare ſonnes ſake Ie<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>Or elſe in the ſteade of the other, this prayer may be vſed, and ſo to vſe the one one day, the other an other.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Eternall and euerliuing God, moſt mercifull Father, which of thy great long ſuffering and patience, haſt hitherto ſuffered and borne with vs moſt miſerable offenders, who haue ſo long ſtrayed out of thy way, and bro<g ref="char:EOLhyphen"/>ken all thy lawes and commaundements, and haue, neither by thy manifolde benefites beſto<g ref="char:EOLhyphen"/>wed vpon vs vnworthie and vnthankefull ſin<g ref="char:EOLhyphen"/>ners, nor by the boyce of thy ſeruauntes and preachers, by continuall threatninges out of thy holy word, hitherto ben moued, either as thy children, of loue to returne vnto thee our moſt gratious Father, either for feare of thy iudge<g ref="char:EOLhyphen"/>mentes, as humble and lowely ſeruants to turne from our wickedneſſe. And therfore, moſt righ<g ref="char:EOLhyphen"/>teous Iudge, thy patience being (as it were) o<g ref="char:EOLhyphen"/>uercome at the laſt, with our obſtinate vnrepen<g ref="char:EOLhyphen"/>tance, thou beſt moſt iuſtly executed thoſe thy ter<g ref="char:EOLhyphen"/>rible threates now partly vpon vs, by plaging vs ſo (with moſt dreadful &amp; deadly ſicknes) whereby great multitudes of vs are dayly afflicted &amp; con<g ref="char:EOLhyphen"/>ſumed.
+<pb facs="tcp:173295:7"/>We beſeech thee, O merciful Father, that in thy wrath thou wilt remember thy old great merices, and to correct vs in thy iudgments, and not in thy iuſt anger, leſt we bee all conſumed and brought to nought. Looke not ſo much vp<g ref="char:EOLhyphen"/>on vs and our deſeruings, O moſt righteous iudge, to take iuſt vengeance on our ſinnes: but rather remember thy infinite mercies, O moſt mercifull Father, promiſed to vs by thy dearely beloued Sonne our Sauiour Ieſus Chriſt, for whoſe ſake, and in whoſe name, we doe earneſt<g ref="char:EOLhyphen"/>ly and humbly craue mercie and forgiueneſſe of our ſinnes, and deliuerance from this horrible ſickneſſe, being thy iuſt puniſhment and plague for the ſame. And as thy holy worde doeth teſtifie, that thy people of all ages, being iuſtly plaged for their ſinnes, and yet in their diſtreſſe vnfained<g ref="char:EOLhyphen"/>ly turning vnto thee, and ſuing for thy mercie, obteined the ſame: So like wiſe we moſt worthi<g ref="char:EOLhyphen"/>ly nowe afflicted with greuous and dreadfull plagues for our iniquites, pray thee, O mercifull Father, to grant vs thy heauenly grace, that we may like wife both truely and vnfeinedly repent, and obteine thy mercie, and deliuerance from the ſame, which we beſeech thee, O Father of al mer<g ref="char:EOLhyphen"/>cies, and God of all conſolation, to graunt vs, for the ſame Ieſus Chriſtes ſake, our onely Sauiour, Media<g ref="char:EOLhyphen"/>tour and aduocate. Amen.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:173295:8"/>
+            <head>This prayer may be ſaid euery third day.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T had bene the beſt for vs, O moſt righteous Iudge, &amp; our moſt merci<g ref="char:EOLhyphen"/>full Father, that in our wealthes and quietnes, and in the middeſt of thy manifold benefites continually beſtowed vpon vs moſt vnworthy ſinners, wee had of loue hearkened to thy voyce, &amp; turned vnto thee our moſt louing and gracious father: For in ſo doing, we had done the parts of good and obe<g ref="char:EOLhyphen"/>dient louing children. It had alſo bene well, if at thy dreadfull threats out of thy holy word con<g ref="char:EOLhyphen"/>tinually pronounced vnto vs by thy ſeruauntes our preachers, we had of feare, as corrigible ſer<g ref="char:EOLhyphen"/>uants, turned fro<g ref="char:cmbAbbrStroke">̄</g> our wickednes. But alas we haue ſhewed hitherto our ſelues towardes thee, neyther as louing children (O moſt merciful fa<g ref="char:EOLhyphen"/>ther) neyther as tolerable ſeruants, O Lorde moſt mightie. Wherefore now we feele thy heauy wrath, O moſt righteous Iudge, iuſtly puni<g ref="char:EOLhyphen"/>ſhing vs with grieuous and deadly ſickneſſe and plagues, we doe now confeſſe and acknowledge, and to our moſt iuſt puniſhment doe find in deede, that to bee moſt true, which wee haue ſo often heard threatned to vs out of thy holy ſcriptures, the worde of thy eternall veritie: that thou art the ſame vnchangeable God, of the ſame iuſtice that thou wilt, and of the ſame power that thou canſt puniſh the like wickedneſſe and obſtinacie of vs impenitent ſinners in theſe dayes, as thou haſt done in all ages heretofore. But the ſame
+<pb facs="tcp:173295:8"/>thy holy Scriptures, the word of thy trueth doe alſo teſtifie, that thy ſtrength is not ſhortened, but that thou canſt, neyther thy goodnes abated, but that thou wilt, helpe thoſe that in their di<g ref="char:EOLhyphen"/>ſtreſſe do flee vnto thy mercies, and that thou art the ſame God of all, rich in mercie towardes all that call vpon thy name, and that thou doeſt not intend to deſtroy vs vtterly, but fatherly to cor<g ref="char:EOLhyphen"/>rect vs, who haſt pitie vpon vs, euen when thou doeſt ſcourge vs, as by thy ſayd holy worde, thy gracious promiſes, &amp; the examples of thy ſaintes in thy holy Scriptures expreſſed for our comfort, thou haſt aſſured vs. Graunt vs, O moſt merci<g ref="char:EOLhyphen"/>full father, that wee fall not into the vttermoſt of all miſchiefs, to become worſe vnder thy ſcourge, but that this thy rodde may by thy heauenly grace, ſpeedily worke in vs the fruite and effect of true repentance, vnfayned turning and conuer<g ref="char:EOLhyphen"/>ting vnto thee, and perfect amendement of our whole liues, that as we through our impeniten<g ref="char:EOLhyphen"/>cie, doe nowe moſt worthily feele thy iuſtice puni<g ref="char:EOLhyphen"/>ſhing vs: ſo by this thy correction, wee may alſo feele the ſweete comfort of thy mercies, graciouſ<g ref="char:EOLhyphen"/>ly pardoning our ſinnes, and pitifully releaſing theſe grieuous puniſhmentes, and dreadfull plagues. This we craue at thy hands (O moſt merciful father) for thy deare Sonne our Sauiour Ieſus Chriſts ſake. Amen.</p>
+         </div>
+         <div type="instructions">
+            <pb facs="tcp:173295:9"/>
+            <head>
+               <g ref="char:leaf">❧</g> Order for the Faſt.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He godly vſe of Faſting, in time of common calamitie, as warre, famine, peſtilence, and alſo whe<g ref="char:cmbAbbrStroke">̄</g> any weighty mat<g ref="char:EOLhyphen"/>ter was in hand, for the Church and common wealth, is e<g ref="char:EOLhyphen"/>uident in holy Scriptures. Wherefore it is neceſſarie in ſo contagious time of ſickeneſſe, and troublous ſtate of the Realme, (our ſinnes procuring iuſtly the wrath of God) that folowing the godly examples of king <hi>Ioſaphat,</hi>
+               <note place="margin">2. Chron. 20. Ionas 3.</note> and the King of Niniue, with others, faſting with prayer be com<g ref="char:EOLhyphen"/>mended to the people by their preachers, exhorting their audience chiefely to theſe points.</p>
+            <list>
+               <item>
+                  <hi>1</hi> That this faſting be euery weeke vpon the Wedneſday.</item>
+               <item>
+                  <hi>2</hi> All perſons betweene the age of <hi>16.</hi> and <hi>60.</hi> yeares, (ſicke folkes, and harueſt labourers, or the like excepted) ſhall on that day eate but one compe<g ref="char:EOLhyphen"/>tent and moderate meale: abſeruing ſobrietie of diet, without ſuperfuitie of ri<g ref="char:EOLhyphen"/>otous fare, reſpecting neceſſitie, and not voluptuouſnes.</item>
+               <item>
+                  <hi>3</hi> The quantitie being but ſufficient, and without delicacie, it is indifferent to eate fleſh or fiſh. Let no publike order be contemned herein, nor diſſimulation with God committed, pretending like hypocrites godlie abſtinence, but doing nothing leſſe.</item>
+               <item>
+                  <hi>4</hi> The wealthier ſort, are to be mooued to giue of that they ſpare, and are beſides able inough to giue, to releeue the poore, conſidering the miſery and di<g ref="char:EOLhyphen"/>ſtreſſe, of a number of poore miſerable ſoules, either ſtaruing for lacke of foode, or being ſicke with eating vnſeaſonable meats.</item>
+               <item>
+                  <hi>5</hi> This day the people are to bee warned, to forbeare bodily working, and common buying, and ſeſſing, and to be exerciſed in holy prayer, deuout ſtudie, reading the Scriptures, inſtructing their children, reforming all their familie: eſpecially to take heede they ſpend it not in playes, paſtimes, idlenes, haunting Tauernes, laſciuious wantonnes, ſurfeiting, and drunkenneſſe, for which ſinnes (the proper ſinnes of this nation) the heauy diſpleaſure, and wrath of God is time vpon vs.</item>
+               <item>
+                  <hi>6</hi> Admonition is heere laſtly to be giuen, that on the faſting day they haue but one Sermon at Morning Prayer, and the ſame not aboue an houre long, to auoyde the inconuenience that may growe by abuſe of faſting: as ſonne make it a faction more then religion, and other with ouermuch wearines and tediouſ<g ref="char:EOLhyphen"/>neſſe, keepe the people a whole day together, which in this time of contagion, is more dangerous in ſo thicke and cloſe aſſemblies of the multitudes. God giue vs grace to repent, and in his mercy turne away his puniſhments from vs. <hi>Amen.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:173295:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
